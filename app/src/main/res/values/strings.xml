@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jetpack_app</string>
+    <string name="type_message">Type Message</string>
+    <string name="submit">Random FruitName</string>
+</resources>
